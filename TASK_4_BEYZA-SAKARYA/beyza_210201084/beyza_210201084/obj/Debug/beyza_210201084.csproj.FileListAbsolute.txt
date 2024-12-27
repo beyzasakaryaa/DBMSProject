@@ -1,0 +1,10 @@
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\bin\Debug\beyza_210201084.exe.config
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\bin\Debug\beyza_210201084.exe
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\bin\Debug\beyza_210201084.pdb
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\obj\Debug\beyza_210201084.csproj.AssemblyReference.cache
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\obj\Debug\beyza_210201084.Form1.resources
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\obj\Debug\beyza_210201084.Properties.Resources.resources
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\obj\Debug\beyza_210201084.csproj.GenerateResource.cache
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\obj\Debug\beyza_210201084.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\obj\Debug\beyza_210201084.exe
+C:\Users\beyza\source\repos\beyza_210201084\beyza_210201084\obj\Debug\beyza_210201084.pdb
